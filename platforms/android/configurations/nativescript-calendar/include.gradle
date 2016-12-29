@@ -1,0 +1,11 @@
+android {
+    productFlavors {
+        "nscal" {
+            dimension "nscal"
+        }
+    }
+}
+
+dependencies {
+    compile "com.android.support:support-v4:+"
+}

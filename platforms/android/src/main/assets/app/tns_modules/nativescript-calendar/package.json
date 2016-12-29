@@ -1,0 +1,67 @@
+{
+  "name": "nativescript-calendar",
+  "version": "1.2.0",
+  "description": "Interact with the native calendar. Add, Update, Read, you name it.",
+  "main": "calendar.js",
+  "typings": "index.d.ts",
+  "nativescript": {
+    "platforms": {
+      "android": "2.0.0",
+      "ios": "2.0.0"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eddyverbruggen/nativescript-calendar.git"
+  },
+  "keywords": [
+    "ecosystem:nativescript",
+    "NativeScript",
+    "iOS",
+    "Android",
+    "Calendar",
+    "Events",
+    "Event",
+    "Agenda"
+  ],
+  "author": {
+    "name": "Telerik / Eddy Verbruggen",
+    "email": "eddyverbruggen@gmail.com"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/eddyverbruggen/nativescript-calendar/blob/master/LICENSE"
+  },
+  "bugs": {
+    "url": "https://github.com/eddyverbruggen/nativescript-calendar/issues"
+  },
+  "homepage": "https://github.com/eddyverbruggen/nativescript-calendar",
+  "gitHead": "d6251e7a849e57f28a1e1eef81f53e2366e38805",
+  "_id": "nativescript-calendar@1.2.0",
+  "scripts": {},
+  "_shasum": "54c84e731f878ca56a4d155377480ce8fd244988",
+  "_from": "nativescript-calendar@latest",
+  "_npmVersion": "2.14.7",
+  "_nodeVersion": "4.2.2",
+  "_npmUser": {
+    "name": "eddyverbruggen",
+    "email": "eddyverbruggen@gmail.com"
+  },
+  "dist": {
+    "shasum": "54c84e731f878ca56a4d155377480ce8fd244988",
+    "tarball": "https://registry.npmjs.org/nativescript-calendar/-/nativescript-calendar-1.2.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "eddyverbruggen",
+      "email": "eddyverbruggen@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/nativescript-calendar-1.2.0.tgz_1479826052852_0.2042215894907713"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/nativescript-calendar/-/nativescript-calendar-1.2.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
